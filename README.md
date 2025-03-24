@@ -1,4 +1,4 @@
-<h2>Detector de Objetos com OpenCV!</h2>
+<h2>Detector de Rostos com OpenCV!</h2>
 
 <p><h3>🛠 Tecnologias Utilizadas</h3></p>
 
